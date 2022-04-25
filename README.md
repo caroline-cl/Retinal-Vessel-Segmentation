@@ -1,4 +1,4 @@
-# Retinal-Vessel-Segmentation
+# Retinal-Vessel-Segmentation: Performance Improvement on U-Net Based Architecture and Attention Mechanism
 
 Retinal vessel segmentation studies the morphological features of the retinal vessels, such as length, width, tortuosity, branching patterns, and angles. Variations of these features from normal characteristics could indicate possible related diseases that may impair human vision. Automatic segmentation and analysis of the vascular features allows faster and even automatic diagnosis of ophthalmologic diseases. However, while fast and accurate segmentation of the retinal vessels is a crucial prerequisite, segmentation and analysis of retinal vessels is time consuming and prone to various sources of error. Therefore using deep learning algorithms as an alternative has the potential to provide fast and accurate segmentation results. U-Net based architectures are very commonly used in solving such problems, but they lack precision in detecting very fine structures. Thus, the objective of this project is to improve accuracy of U-Net based image segmentation on retina vessels images by implementing attention mechanisms. 
 
